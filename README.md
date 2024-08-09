@@ -1,4 +1,4 @@
-# projeto-java-ana-limao
+# projeto-java-ana-lima
 let objeto;
 let padrao;
 let fonte;
